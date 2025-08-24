@@ -27,4 +27,5 @@ var myVar = "Hello, world!";
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
+4. and the I will merge my pull request
 
