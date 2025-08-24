@@ -2,11 +2,11 @@
 
 ## this is a H2 header
 
-here I will add a image
+1. here I will add a image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-here I will add some code blocks.
+2. here I will add some code blocks.
 
 example1
 
@@ -20,3 +20,11 @@ example2
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+3. here I will make a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
